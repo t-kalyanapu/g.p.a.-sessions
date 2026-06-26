@@ -1,0 +1,10 @@
+z=32
+r=44
+print(z+r)
+m=3
+a=3
+t=3
+h=3
+math=m*a*t*h
+print(math)
+print(m+math+r+a+t+h)
