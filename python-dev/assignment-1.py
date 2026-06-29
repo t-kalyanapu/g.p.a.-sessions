@@ -1,0 +1,12 @@
+marks = [100,90,80,70,60]
+print(marks)
+total_marks=sum(marks)
+print(total_marks)
+average_marks=sum(marks)/len(marks)
+print(average_marks)
+highest_marks=max(marks)
+print(highest_marks)
+lowest_marks=min(marks)
+print(lowest_marks)
+sorted_marks=sorted(marks)
+print(sorted_marks)
